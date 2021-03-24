@@ -1,0 +1,7 @@
+.idea/*
+/logs
+*.log
+*.iml
+/.project
+target/classes/*
+target/test-classes/*
